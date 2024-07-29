@@ -1,0 +1,5 @@
+5 5
+1 2 N
+G A G A G A G A A
+5 1 E
+A A D A A D A D D A
